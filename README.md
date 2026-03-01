@@ -62,5 +62,5 @@ Allows educators to create courses, upload videos, manage students, and lets lea
 
 ### 1. Vercel Deployed Link
 ```bash
-git clone https://lms-frontend-nine-kappa.vercel.app
+ https://lms-frontend-nine-kappa.vercel.app
 
