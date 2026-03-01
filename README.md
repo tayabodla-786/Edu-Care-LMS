@@ -60,7 +60,7 @@ Allows educators to create courses, upload videos, manage students, and lets lea
 - MongoDB (local or Atlas)
 - Google OAuth Client ID & Secret (for Google login)
 
-### 1. Clone the repo
+### 1. Vercel Deployed Link
 ```bash
-git clone https://github.com/tayyabodla-786/EDUCARELMSS.git
-cd EDUCARELMSS
+git clone https://lms-frontend-nine-kappa.vercel.app
+
